@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\CSharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj": {}
+    "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\Csharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\CSharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj": {
+    "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\Csharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\CSharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj",
+        "projectUniqueName": "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\Csharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj",
         "projectName": "10-tabuada",
-        "projectPath": "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\CSharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj",
+        "projectPath": "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\Csharp\\exercicios-csharp\\10-tabuada\\10-tabuada.csproj",
         "packagesPath": "C:\\Users\\filipe.asilva7\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\filipe.asilva7\\Desktop\\TIPI04\\aulas\\saida-02-Back-end\\CSharp\\exercicios-csharp\\10-tabuada\\obj\\",
         "projectStyle": "PackageReference",
